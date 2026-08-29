@@ -9,6 +9,17 @@ description: 'Zaapi is an all-in-one conversational AI and chat-commerce platfor
   Ventures. As of this profile Zaapi exposes no public developer API, OpenAPI specification, SDK, or
   developer portal; webhook connectivity was signalled on the product roadmap but is not yet published.'
 url: https://raw.githubusercontent.com/api-evangelist/zaapi/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
